@@ -1,0 +1,11 @@
+APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols.
+
+HTTP Protocol REST APIs
+
+
+Methods GET PUT POST DELETE
+
+GET: Fetch Resource
+POST: Create Resource
+PUT: Update Resource
+DELETE: Delete Resource
